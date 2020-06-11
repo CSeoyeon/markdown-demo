@@ -3,7 +3,8 @@
 # section1 
 
 ## section 1.1
-가나다라마
+* 한글: 가나다라마
+* 영어: abcde
 
 ### section 1.1.1
 
