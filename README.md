@@ -1,11 +1,5 @@
 # markdown-demo
 
-자기소개
-=======
-
-이름
--------
-
 # section1 
 
 ## section 1.1
