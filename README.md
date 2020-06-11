@@ -14,5 +14,3 @@ __매우 강조2__
 ~~취소~~
 
 구글[여기](https://www.google.com)로 가기
-
-https://www.google.com
