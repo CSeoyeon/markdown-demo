@@ -14,4 +14,10 @@ __매우 강조2__
 ~~취소~~  
 
 [구글](https://www.google.com "구글 홈페이지")로 가기
+
+구글페이지[여기][1]클릭
+
+
 [라이센스 파일](./LICENSE)
+
+[1]: https://www.google.com
