@@ -1,3 +1,7 @@
+#Quote
+> 거인의 어깨에서
+> 세상을 바라봐라 - 아이작 뉴턴 
+
 #Image
 
 ![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google's Homepage")
