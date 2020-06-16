@@ -3,7 +3,7 @@
          return a+b
 '''python
 def sum(a,b):
-  return a+b
+ return a+b
 '''
 
 두 숫자를 더할때는 'sum()' 함수를 콜해주세요.
