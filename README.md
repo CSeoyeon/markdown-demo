@@ -1,3 +1,12 @@
+#Table
+
+| name | OSS | basic programming1 | basic programming2|
+|------| :---| :-------------:| --------:|
+| 홍길동 | o | x | x |
+| 김철수 | o | o | x |
+
+
+
 # markdown-demo
 
 # section1 
@@ -46,5 +55,8 @@ __매우 강조2__
 
 [라이센스 파일](./LICENSE)
 
+
 [1]: https://www.google.com
 [구글페이지]: https://www.google.com
+
+
