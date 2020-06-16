@@ -2,7 +2,7 @@
 
 ![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google's Homepage")
 
-<img scr = https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png width = "25>
+<img scr = "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width = "25" height ="25">
 
 #Table
 
