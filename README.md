@@ -1,3 +1,10 @@
+# Code
+    def sum(a, b):
+         return a+b
+'''python
+def sum(a,b):
+  return a+b
+''' 
 #Quote
 > 거인의 어깨에서
 > 세상을 바라봐라 - 아이작 뉴턴 
